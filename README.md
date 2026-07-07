@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SEBASTIAN-MUSSA
-- 👀 I’m interested  software developnment
+- 👀 I’m interested  software development
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on  software development
 - 📫 How to reach me via sebastian4rd@gmail.com
